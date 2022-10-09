@@ -1,0 +1,11 @@
+a:hover {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+}
+
+a{
+    padding: 2px 2px 2px 2px;
+    color: black;
+}
