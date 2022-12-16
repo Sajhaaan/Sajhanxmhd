@@ -11,3 +11,12 @@
     width: 100%;
     justify-content: center;
 }
+
+.nft-link-text{
+    color: black;
+}
+
+.nft-link-text:hover {
+    color: grey;
+    text-decoration: none;
+}
