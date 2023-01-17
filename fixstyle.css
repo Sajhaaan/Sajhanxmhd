@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+    .col-md-6 {
+        width: 100%;
+    }
+}
+
+
+.col-md-6 {
+    font-size:1.7rem;
+}
